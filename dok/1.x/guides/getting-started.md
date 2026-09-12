@@ -1,6 +1,7 @@
 ---
 title: 'Getting Started'
 description: 'Install Atlas and publish your first page.'
+order: 1
 ---
 ## Installation
 
